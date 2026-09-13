@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **react native project**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **batool.j.salim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
